@@ -1,6 +1,6 @@
 # Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference
 
-Official code for paper [Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference](google.com)
+Official code for paper [Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference](https://link.springer.com/content/pdf/10.1007%2F978-3-030-88210-5_7.pdf)
 
 # Model Initialization
 Our implementation follows the following parameters of the model
@@ -26,4 +26,12 @@ Our implementation follows the following parameters of the model
 # Credit 
 If you use the code or the paper in any of your work, please remember to cite us
 ```bash
+@incollection{hung2021hierarchical,
+  title={Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference},
+  author={Hung, Alex Ling Yu and Sun, Zhiqing and Chen, Wanwen and Galeotti, John},
+  booktitle={Deep Generative Models, and Data Augmentation, Labelling, and Imperfections},
+  pages={83--92},
+  year={2021},
+  publisher={Springer}
+}
 ```

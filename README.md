@@ -1,6 +1,8 @@
 # Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference
 
-Official code for paper [Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference](https://link.springer.com/content/pdf/10.1007%2F978-3-030-88210-5_7.pdf)
+Official code for paper [Hierarchical Probabilistic Ultrasound Image Inpainting via Variational Inference](https://link.springer.com/content/pdf/10.1007%2F978-3-030-88210-5_7.pdf), which was accepted at DGM4MICCAI 2021.
+
+[Slides](https://drive.google.com/file/d/1QiznJ6UjWqhXJ35T8szzukaGrJgkLQDz/view?usp=sharing) and [Presentation](https://www.youtube.com/watch?v=7jEW8chI4QA)
 
 # Model Initialization
 Our implementation follows the following parameters of the model
